@@ -1,8 +1,8 @@
-#quicksort algorithmus ~Sebastion -> der pisser, Beni, Paulus
+#quicksort algorithmus ~ Sebastion, Beni, Paulus
 
 unsorted_list = [4,6,8,15,4,3, -6, 84,5]
 
-def quicksort(List): #Die List
+def quicksort(List):
     if len(List) <= 1:
         return List   
 
