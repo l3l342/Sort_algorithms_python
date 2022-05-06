@@ -3,3 +3,4 @@ Some famous sort algorithms in python
 
 ## Contains 
 - Quicksort
+- Mergesort
