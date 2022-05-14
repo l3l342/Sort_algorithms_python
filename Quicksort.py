@@ -21,6 +21,3 @@ def quicksort(List):
 
 a = quicksort(unsorted_list)
 print(a)
-
-
-#nimm zahl in lite
