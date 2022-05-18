@@ -4,6 +4,3 @@ Some famous sort algorithms in python
 ## Contains 
 - Quicksort
 - Mergesort
-
-## Warning
-- very uneffizient
